@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/credi_project",
+    "public": "dist/credi_project",    
     "ignore": [
       "firebase.json",
       "**/.*",
